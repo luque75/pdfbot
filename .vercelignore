@@ -1,0 +1,5 @@
+# Ignorar archivos grandes y temporales
+uploads/
+*.pdf
+*.zip
+*.tar.gz
